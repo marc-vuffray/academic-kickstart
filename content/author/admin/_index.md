@@ -29,7 +29,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Computer and Communication Science"
+  course = "PhD in Computer and Communication Sciences"
   institution = "EPFL – École Polytechnique Fédérale de Lausanne"
   year = 2014
 
