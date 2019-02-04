@@ -10,19 +10,23 @@ role = "Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Los Alamos National Laboratory", url = "https://www.lanl.gov/" } ]
+organizations = [ { name = "Los Alamos National Laboratory", url = "https://www.lanl.gov/" }, {name = "Physics of Condensed Matter and Complex Systems", url = "https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-condensed-matter-complex-systems/index.php"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "I'm a staff research scientist in the Theoretical Division at the Los Alamos National Laboratory, New Mexico, where I am part of the advanced network science initiative as well as the condensed matter and complex systems group. My background is in statistical physics and information theory.
+
+My current work focuses on the design of machine learning techniques for learning probabilistic networks and on the development of new methods to control and optimize energy networks under uncertainties."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "vuffray@lanl.gov"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Statistical Physics",
+  "Machine Learning",
+  "Information Theory",
+  "Graphical Models",
+  "Uncertainty Quantification"
 ]
 
 # List qualifications (such as academic degrees)
