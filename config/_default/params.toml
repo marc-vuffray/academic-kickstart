@@ -55,7 +55,7 @@ phone = "1 505 667 3921"
 address = "Los Alamos National Laboratory, B262, Los Alamos, NM, 87545, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
