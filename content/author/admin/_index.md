@@ -36,7 +36,7 @@ interests = [
 [[education.courses]]
   course = "MSc in Physics"
   institution = "EPFL – École Polytechnique Fédérale de Lausanne"
-  year = 2009
+  year = 2008
 
 [[education.courses]]
   course = "BSc in Physics"
