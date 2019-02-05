@@ -71,10 +71,10 @@ interests = [
   icon_pack = "ai"
   link = "https://scholar.google.com/citations?user=Z9Flw3IAAAAJ&" 
 
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/marc-vuffray"
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/marc-vuffray"
 
 [[social]]
   icon = "linkedin"
