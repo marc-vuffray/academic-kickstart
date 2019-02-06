@@ -65,5 +65,5 @@ exclude_selected = true
 <span style="margin-left:1.5em">  Constraints, 2017, [\[online\]](https://link.springer.com/article/10.1007/s10601-016-9253-y), [\[arXiv\]](https://arxiv.org/pdf/1606.06512.pdf)
 
 * Monotonicity of dissipative flow networks renders robust maximum profit problem tractable: General analysis and application to natural gas flows  <br>
-<span style="margin-left:1.5em"> **M Vuffray**, S Misra, M Chertkov <br>
+<span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, M. Chertkov <br>
 <span style="margin-left:1.5em">  Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
