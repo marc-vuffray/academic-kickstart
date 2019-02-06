@@ -22,9 +22,8 @@ email = "vuffray@lanl.gov"
 interests = [
   "Statistical Physics",
   "Machine Learning",
+  "Energy Networks",
   "Information Theory",
-  "Graphical Models",
-  "Uncertainty Quantification"
 ]
 
 # List qualifications (such as academic degrees)
