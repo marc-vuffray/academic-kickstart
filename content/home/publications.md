@@ -58,19 +58,19 @@ exclude_selected = true
 
 * Uncovering Power Transmission Dynamic Model from Incomplete PMU Observations <br>
 <span style="margin-left:1.5em"> A.Y. Lokhov, D. Deka, **M. Vuffray**, M. Chertkov <br>
-<span style="margin-left:1.5em">  IEEE Conference on Decision and Control (CDC), 2018, [\[online\]](https://ieeexplore.ieee.org/abstract/document/8619606)
+<span style="margin-left:1.5em"> IEEE Conference on Decision and Control (CDC), 2018, [\[online\]](https://ieeexplore.ieee.org/abstract/document/8619606)
 
 * Online Learning of Power Transmission Dynamics  <br>
 <span style="margin-left:1.5em"> A.Y. Lokhov, **M. Vuffray**, D. Shemetov, D. Deka, M. Chertkov <br>
-<span style="margin-left:1.5em">  Power Systems Computation Conference (PSCC), 2018, [\[online\]](https://ieeexplore.ieee.org/abstract/document/8442720), [\[arXiv\]](https://arxiv.org/pdf/1710.10021.pdf)
+<span style="margin-left:1.5em"> Power Systems Computation Conference (PSCC), 2018, [\[online\]](https://ieeexplore.ieee.org/abstract/document/8442720), [\[arXiv\]](https://arxiv.org/pdf/1710.10021.pdf)
 
 * Graphical Models for Optimal Power Flow  <br>
-<span style="margin-left:1.5em">K. Dvijotham, M. Chertkov, P. Van Hentenryck, **M. Vuffray**, S. Misra <br>
+<span style="margin-left:1.5em"> K. Dvijotham, M. Chertkov, P. Van Hentenryck, **M. Vuffray**, S. Misra <br>
 <span style="margin-left:1.5em">  Constraints, 2017, [\[online\]](https://link.springer.com/article/10.1007/s10601-016-9253-y), [\[arXiv\]](https://arxiv.org/pdf/1606.06512.pdf)
 
 * Monotonicity of Dissipative Flow Networks Renders Robust Maximum Profit Problem Tractable: General Analysis and Application to Natural Gas Flows  <br>
 <span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, M. Chertkov <br>
-<span style="margin-left:1.5em">  Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
+<span style="margin-left:1.5em"> Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
   
 ### Information Theory
 
