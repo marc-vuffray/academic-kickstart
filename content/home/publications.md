@@ -72,13 +72,13 @@ exclude_selected = true
 <span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, M. Chertkov <br>
 <span style="margin-left:1.5em">  Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
   
- ### Information Theory
+### Information Theory
 
 * The Bethe Free Energy Allows to Compute the Conditional Entropy of Graphical Code Instances: A Proof From the Polymer Expansion <br>
 <span style="margin-left:1.5em"> N. Macris, **M. Vuffray** <br>
-<span style="margin-left:1.5em"> IEEE Transactions on Information Theory, 2016, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7460154), [\[arXiv\]](https://arxiv.org/pdf/1310.1294)
+<span style="margin-left:1.5em"> IEEE Transactions on Information Theory, 2016, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7460154), [\[arXiv\]](https://arxiv.org/pdf/1310.1294.pdf)
 
 
 * Approaching the Rate-Distortion Limit with Spatial Coupling, Belief Propagation, and Decimation <br>
 <span style="margin-left:1.5em"> V. Aref, N. Macris, **M. Vuffray** <br>
-<span style="margin-left:1.5em"> IEEE Transactions on Information Theory, 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7109906), [\[arXiv\]](https://arxiv.org/pdf/1307.5210)
+<span style="margin-left:1.5em"> IEEE Transactions on Information Theory, 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7109906), [\[arXiv\]](https://arxiv.org/pdf/1307.5210.pdf)
