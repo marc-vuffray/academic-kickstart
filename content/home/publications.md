@@ -70,7 +70,7 @@ exclude_selected = true
 
 * Monotonicity of Dissipative Flow Networks Renders Robust Maximum Profit Problem Tractable: General Analysis and Application to Natural Gas Flows  <br>
 <span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, M. Chertkov <br>
-<span style="margin-left:1.5em"> Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
+<span style="margin-left:1.5em"> IEEE Conference on Decision and Control (CDC), 2015, [\[online\]](https://ieeexplore.ieee.org/abstract/document/7402933), [\[arXiv\]](https://arxiv.org/pdf/1504.00910.pdf)
   
 ### Information Theory
 
