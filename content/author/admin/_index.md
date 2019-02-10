@@ -40,7 +40,7 @@ interests = [
 [[education.courses]]
   course = "BSc in Physics"
   institution = "EPFL – École Polytechnique Fédérale de Lausanne"
-  year = 2005
+  year = 2006
 
 # Social/Academic Networking
 #
