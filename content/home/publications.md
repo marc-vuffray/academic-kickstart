@@ -52,7 +52,7 @@ exclude_selected = true
 
 * Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models  <br>
 <span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, A.Y. Lokhov, M. Chertkov <br>
-<span style="margin-left:1.5em">  Advances in Neural Information Processing Systems (NIPS), 2016, [\[online\]](http://papers.nips.cc/paper/6375-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models), [\[arXiv\]](https://arxiv.org/pdf/1605.07252.pdf)
+<span style="margin-left:1.5em">  Advances in Neural Information Processing Systems (NeurIPS), 2016, [\[online\]](http://papers.nips.cc/paper/6375-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models), [\[arXiv\]](https://arxiv.org/pdf/1605.07252.pdf)
 
 ### Energy Networks
 
