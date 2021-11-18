@@ -6,40 +6,41 @@ name = "Marc Vuffray"
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Los Alamos National Laboratory", url = "https://www.lanl.gov/" }, {name = "Theoretical Division", url = "https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "vuffray@lanl.gov"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Statistical Physics",
+  "Machine Learning",
+  "Energy Networks",
+  "Information Theory",
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer and Communication Sciences"
+  institution = "EPFL – École Polytechnique Fédérale de Lausanne"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "MSc in Physics"
+  institution = "EPFL – École Polytechnique Fédérale de Lausanne"
   year = 2008
+
+[[education.courses]]
+  course = "BSc in Physics"
+  institution = "EPFL – École Polytechnique Fédérale de Lausanne"
+  year = 2006
 
 # Social/Academic Networking
 #
@@ -65,19 +66,21 @@ interests = [
   link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=Z9Flw3IAAAAJ&"
+
+#[[social]]
+#  icon = "github"
+#  icon_pack = "fab"
+#  link = "https://github.com/marc-vuffray"
 
 [[social]]
-  icon = "github"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://www.linkedin.com/in/marc-vuffray-6264067b/"
+
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +91,6 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a staff research scientist in the Theoretical Division at the Los Alamos National Laboratory ([LANL](https://www.lanl.gov/)), New Mexico, where I am part of the Advanced Network Science Initiative ([ANSI](https://lanl-ansi.github.io)) as well as the Condensed Matter and Complex Systems Group ([T-4](https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-condensed-matter-complex-systems/index.php)). My background is in statistical physics and information theory.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My current work focuses on the design of machine learning techniques for learning probabilistic networks and on the development of new methods to control and optimize energy networks under uncertainty.
