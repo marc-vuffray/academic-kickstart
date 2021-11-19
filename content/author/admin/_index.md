@@ -22,8 +22,8 @@ email = "vuffray@lanl.gov"
 interests = [
   "Statistical Physics",
   "Machine Learning",
+  "Quantum Computing",
   "Energy Networks",
-  "Information Theory",
 ]
 
 # List qualifications (such as academic degrees)
@@ -93,4 +93,4 @@ interests = [
 
 I'm a staff research scientist in the Theoretical Division at the Los Alamos National Laboratory ([LANL](https://www.lanl.gov/)), New Mexico, where I am part of the Advanced Network Science Initiative ([ANSI](https://lanl-ansi.github.io)) as well as the Condensed Matter and Complex Systems Group ([T-4](https://www.lanl.gov/org/ddste/aldsc/theoretical/physics-condensed-matter-complex-systems/index.php)). My background is in statistical physics and information theory.
 
-My current work focuses on the design of machine learning techniques for learning probabilistic networks and on the development of new methods to control and optimize energy networks under uncertainty.
+My current work focuses on the design of machine learning techniques for learning probabilistic networks, on understanding the behavior of quantum computers, and on the development of new methods to control and optimize energy networks under uncertainty.
