@@ -60,7 +60,7 @@ exclude_selected = true
 
 * Interaction Screening: Efficient and Sample-Optimal Learning of Ising Models  <br>
 <span style="margin-left:1.5em"> **M. Vuffray**, S. Misra, A.Y. Lokhov, M. Chertkov <br>
-<span style="margin-left:1.5em">  Advances in Neural Information Processing Systems (NeurIPS), 2016, [\[online\]](http://papers.nips.cc/paper/6375-interaction-screening-efficient-and-sample-optimal-learning-of-ising-models), [\[arXiv\]](https://arxiv.org/pdf/1605.07252.pdf)
+<span style="margin-left:1.5em"> Advances in Neural Information Processing Systems (NeurIPS), 2016, [\[online\]](https://proceedings.neurips.cc/paper/2016/file/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Paper.pdf), [\[arXiv\]](https://arxiv.org/pdf/1605.07252.pdf)
 
 ### Quantum Computing
 
@@ -76,7 +76,8 @@ exclude_selected = true
 
 * Single-Qubit Fidelity Assessment of Quantum Annealing Hardware <br>
 <span style="margin-left:1.5em"> J. Nelson, **M. Vuffray**, A.Y. Lokhov, C. Coffrin <br>
-<span style="margin-left:1.5em"> arXiv, 2021,
+<span style="margin-left:1.5em"> IEEE Transactions on Quantum Engineering, 2021,
+[\[online\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9465651),
 [\[arXiv\]](https://arxiv.org/pdf/2104.03335.pdf)
 
 * Programmable Quantum Annealers as Noisy Gibbs Samplers <br>
@@ -87,7 +88,7 @@ exclude_selected = true
 * The Potential of Quantum Annealing for Rapid Solution Structure Identification <br>
 <span style="margin-left:1.5em"> Y. Pang, C. Coffrin, A.Y. Lokhov, **M. Vuffray** <br>
 <span style="margin-left:1.5em"> Constraints, 2020,
-[\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0)
+[\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0),
 [\[arXiv\]](https://arxiv.org/abs/1912.01759)
 
 * Quantum Algorithm Implementations for Beginners <br>
