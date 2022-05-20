@@ -70,12 +70,6 @@ exclude_selected = true
 [\[online\]](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.3.020317),
 [\[arXiv\]](https://arxiv.org/pdf/2012.08827.pdf)
 
-* The Potential of Quantum Annealing for Rapid Solution Structure Identification <br>
-<span style="margin-left:1.5em"> Y. Pang, C. Coffrin, A.Y. Lokhov, **M. Vuffray** <br>
-<span style="margin-left:1.5em"> Constraints, 2020,
- [\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0),
-[\[arXiv\]](https://arxiv.org/abs/1912.01759)
-
 * High-quality Thermal Gibbs Sampling with Quantum Annealing Hardware <br>
 <span style="margin-left:1.5em"> J. Nelson, **M. Vuffray**, A.Y. Lokhov, T. Albash, C. Coffrin <br>
 <span style="margin-left:1.5em"> Phys. Rev. Applied , 2022,
@@ -86,6 +80,12 @@ exclude_selected = true
 <span style="margin-left:1.5em"> IEEE Transactions on Quantum Engineering, 2021,
 [\[online\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9465651),
 [\[arXiv\]](https://arxiv.org/pdf/2104.03335.pdf)
+
+* The Potential of Quantum Annealing for Rapid Solution Structure Identification <br>
+<span style="margin-left:1.5em"> Y. Pang, C. Coffrin, A.Y. Lokhov, **M. Vuffray** <br>
+<span style="margin-left:1.5em"> Constraints, 2020,
+ [\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0),
+[\[arXiv\]](https://arxiv.org/abs/1912.01759)
 
 * Single-Qubit Cross Platform Comparison of Quantum Computing Hardware <br>
 <span style="margin-left:1.5em"> A. Suau, J. Nelson, **M. Vuffray**, A.Y. Lokhov, L. Cincio, C. Coffrin <br>
