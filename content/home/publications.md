@@ -64,15 +64,22 @@ exclude_selected = true
 
 ### Quantum Computing
 
+* Programmable Quantum Annealers as Noisy Gibbs Samplers <br>
+<span style="margin-left:1.5em"> **M. Vuffray**, C. Coffrin, Y.A. Kharkov, A.Y. Lokhov <br>
+<span style="margin-left:1.5em"> PRX Quantum, 2022,
+[\[online\]](https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.3.020317),
+[\[arXiv\]](https://arxiv.org/pdf/2012.08827.pdf)
+
+* The Potential of Quantum Annealing for Rapid Solution Structure Identification <br>
+<span style="margin-left:1.5em"> Y. Pang, C. Coffrin, A.Y. Lokhov, **M. Vuffray** <br>
+<span style="margin-left:1.5em"> Constraints, 2020,
+ [\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0),
+[\[arXiv\]](https://arxiv.org/abs/1912.01759)
+
 * High-quality Thermal Gibbs Sampling with Quantum Annealing Hardware <br>
 <span style="margin-left:1.5em"> J. Nelson, **M. Vuffray**, A.Y. Lokhov, T. Albash, C. Coffrin <br>
-<span style="margin-left:1.5em"> arXiv, 2021,
-[\[arXiv\]](https://arxiv.org/pdf/2109.01690.pdf)
-
-* Single-Qubit Cross Platform Comparison of Quantum Computing Hardware <br>
-<span style="margin-left:1.5em"> A. Suau, J. Nelson, **M. Vuffray**, A.Y. Lokhov, L. Cincio, C. Coffrin <br>
-<span style="margin-left:1.5em"> arXiv, 2021,
-[\[arXiv\]](https://arxiv.org/pdf/2108.11334.pdf)
+<span style="margin-left:1.5em"> Phys. Rev. Applied , 2022,
+[\[online\]](https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.17.044046), [\[arXiv\]](https://arxiv.org/pdf/2109.01690.pdf)
 
 * Single-Qubit Fidelity Assessment of Quantum Annealing Hardware <br>
 <span style="margin-left:1.5em"> J. Nelson, **M. Vuffray**, A.Y. Lokhov, C. Coffrin <br>
@@ -80,16 +87,10 @@ exclude_selected = true
 [\[online\]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9465651),
 [\[arXiv\]](https://arxiv.org/pdf/2104.03335.pdf)
 
-* Programmable Quantum Annealers as Noisy Gibbs Samplers <br>
-<span style="margin-left:1.5em"> **M. Vuffray**, C. Coffrin, Y.A. Kharkov, A.Y. Lokhov <br>
-<span style="margin-left:1.5em"> arXiv, 2020,
-[\[arXiv\]](https://arxiv.org/pdf/2012.08827.pdf)
-
-* The Potential of Quantum Annealing for Rapid Solution Structure Identification <br>
-<span style="margin-left:1.5em"> Y. Pang, C. Coffrin, A.Y. Lokhov, **M. Vuffray** <br>
-<span style="margin-left:1.5em"> Constraints, 2020,
-[\[online\]](https://link.springer.com/article/10.1007/s10601-020-09315-0),
-[\[arXiv\]](https://arxiv.org/abs/1912.01759)
+* Single-Qubit Cross Platform Comparison of Quantum Computing Hardware <br>
+<span style="margin-left:1.5em"> A. Suau, J. Nelson, **M. Vuffray**, A.Y. Lokhov, L. Cincio, C. Coffrin <br>
+<span style="margin-left:1.5em"> arXiv, 2021,
+[\[arXiv\]](https://arxiv.org/pdf/2108.11334.pdf)
 
 * Quantum Algorithm Implementations for Beginners <br>
 <span style="margin-left:1.5em"> J. Abhijith, ...,  S. Eidenbenz, P. J Coles, **M. Vuffray**, A.Y. Lokhov <br>
